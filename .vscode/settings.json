@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/8fe01723-c68a-4842-b6b6-341e5e14be9f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/NuralTec",
+    "appService.deploySubpath": "."
+}
